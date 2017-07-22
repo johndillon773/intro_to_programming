@@ -1,0 +1,1 @@
+names[...] expects an integer for an index of an item in the array, not a string ('margaret')
